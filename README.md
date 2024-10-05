@@ -1,1 +1,1 @@
-# practica3-haskell
+equipo: yo solito 
